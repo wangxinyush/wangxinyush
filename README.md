@@ -1,0 +1,2 @@
+- Hi, I’m Xinyu Wang.
+- I’m a researcher in Bioinformatics, Cancer Epigenetics for ten years.
